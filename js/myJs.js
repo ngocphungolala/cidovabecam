@@ -1,17 +1,17 @@
 const textConfig = {
   text1: "Helo anhhh",
   text2: "Em có điều này muốn hỏi anh nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Anh thức cùng em đến 2h nha?",
-  text4: "Nếu anh ko trả lời mà thoát ra tức là sẽ thức cùng em luôn nha :v",
+  text3: "Anh thức cùng em đến 2h30 nha?",
+  text4: "Nếu anh ko trả lời mà thoát ra tức là sẽ thức cùng em luôn đó :v",
   text5: "Em mơ à???",
-  text6: "Tất nhiên rồi",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text6: "Thức cùng em đến mấy giờ cũng được ạ",
+  text7: "anh viết cam kết đi nào",
+  text8: "Xin hứa",
+  text9: "Em nói gì anh cũng chiều theo hết luôn",
+  text10: "Anh hứa rồi đấy nha ^^ Yêu anh nhiều nhiều",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Giờ thì thức cùng em đến 2h30 nàooooo",
+  text12: "Okieee luônnn <3",
 };
 
 $(document).ready(function () {
