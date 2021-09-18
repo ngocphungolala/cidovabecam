@@ -38,7 +38,7 @@ $(document).ready(function () {
       imageUrl: "img/cuteCat.jpg",
       imageWidth: 300,
       imageHeight: 300,
-      background: '#68923A url("img/puung3.jpg")',
+      background: '#68923A url("img/green.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
       $(".content").show(200);
@@ -115,7 +115,7 @@ $(document).ready(function () {
       width: 900,
       padding: "3em",
       html: "<input type='text' class='form-control' id='txtReason'  placeholder='traloitaiday'>",
-      background: '#68923A url("img/puung3.jpg")',
+      background: '#68923A url("img/green.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
                     url("img/giphy2.jpg")
@@ -133,7 +133,7 @@ $(document).ready(function () {
         Swal.fire({
           width: 900,
           confirmButtonText: textConfig.text12,
-          background: '#68923A url("img/puung3.jpg")',
+          background: '#68923A url("img/green.jpg")',
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
