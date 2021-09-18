@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Helo anhhh",
-  text2: "Em có điều này muốn hỏi anh nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Anh thức cùng em đến 2h30 nha?",
-  text4: "Nếu anh ko trả lời mà thoát ra tức là sẽ thức cùng em luôn đó :v",
-  text5: "Em mơ à???",
-  text6: "Thức cùng em đến mấy giờ cũng được ạ",
-  text7: "anh viết cam kết đi nào",
-  text8: "Xin hứa",
-  text9: "Em nói gì anh cũng chiều theo hết luôn",
-  text10: "Anh hứa rồi đấy nha ^^ Yêu anh nhiều nhiều",
+  text1: "Helo cậu",
+  text2: "Bé Cam có điều này muốn hỏi, cậu nhớ phải trả lời thật lòng nhaaa.",
+  text3: "Cậu có yêu bé Cam hông?",
+  text4: "Nếu cậu hông trả lời mà thoát ra tức là rất yêu bé Cam rồi đó :v",
+  text5: "Không yêu xíu nào nha",
+  text6: "Vẫn là hông yêu nhưng nút màu xanh",
+  text7: "Thật sự là cậu hông yêu bé Cam luôn hỏ?",
+  text8: "Xác nhận",
+  text9: "Vì tớ ngại bày tỏ tình cảm á, chứ thật ra tớ yêu bé Cam lắm lắm",
+  text10: "Bé Cam biết cậu yêu bé Cam mà ^^ Bé Cam cũng yêu cậu nhiều nhiều",
   text11:
-    "Giờ thì thức cùng em đến 2h30 nàooooo",
+    "Nếu đã yêu bé Cam thì nhớ follow bé Cam trên fanpage Fulbright CIDO nhaaaa",
   text12: "Okieee luônnn <3",
 };
 
