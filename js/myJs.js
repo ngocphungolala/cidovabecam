@@ -118,7 +118,7 @@ $(document).ready(function () {
       background: '#68923A url("img/puung3.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
-                    url("img/giphy2.gif")
+                    url("img/giphy2.jpg")
                     left top
                     no-repeat
                   `,
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://www.facebook.com/fulbright.cido";
           },
         });
       }
