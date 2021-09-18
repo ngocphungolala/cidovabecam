@@ -3,8 +3,8 @@ const textConfig = {
   text2: "Bé Cam có điều này muốn hỏi, cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Cậu có yêu bé Cam hông?",
   text4: "Nếu cậu hông trả lời mà thoát ra tức là rất yêu bé Cam rồi đó :v",
-  text5: "Vẫn là hông yêu nhưng nút màu xanh",
-  text6: "Không yêu xíu nào nha",
+  text5: "Không yêu xíu nào nha",
+  text6: "Vẫn là hông yêu nhưng nút màu đỏ",
   text7: "Thật sự là cậu hông yêu bé Cam luôn hỏ?",
   text8: "Xác nhận",
   text9: "Vì tớ ngại bày tỏ tình cảm á, chứ thật ra tớ yêu bé Cam lắm lắm",
@@ -38,7 +38,7 @@ $(document).ready(function () {
       imageUrl: "img/cuteCat.jpg",
       imageWidth: 300,
       imageHeight: 300,
-      background: '#fff url("img/iput-bg.jpg")',
+      background: '##68923A url("img/puung2.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
       $(".content").show(200);
@@ -114,8 +114,8 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
-      background: '#fff url("img/iput-bg.jpg")',
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='traloitaiday'>",
+      background: '##68923A url("img/puung2.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
                     url("img/giphy2.gif")
@@ -133,7 +133,7 @@ $(document).ready(function () {
         Swal.fire({
           width: 900,
           confirmButtonText: textConfig.text12,
-          background: '#fff url("img/iput-bg.jpg")',
+          background: '#68923A url("img/puung2.jpg")',
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
